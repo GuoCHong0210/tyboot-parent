@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../tyboot-admin/tyboot-admin.iml" filepath="$PROJECT_DIR$/../tyboot-admin/tyboot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tyboot-core/tyboot-core.iml" filepath="$PROJECT_DIR$/../tyboot-core/tyboot-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tyboot-generator/tyboot-generator.iml" filepath="$PROJECT_DIR$/../tyboot-generator/tyboot-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tyboot-parent.iml" filepath="$PROJECT_DIR$/tyboot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tyboot-rest/tyboot-rest.iml" filepath="$PROJECT_DIR$/../tyboot-rest/tyboot-rest.iml" />
+    </modules>
+  </component>
+</project>
